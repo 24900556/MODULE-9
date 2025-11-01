@@ -1,4 +1,4 @@
-<img width="547" height="533" alt="446241589-f66afcf1-6563-4e37-82ff-181570be2dc2" src="https://github.com/user-attachments/assets/9316a211-e7dc-4118-80c2-604531983525" /># 🧮 SORTING ALGORITHMS: Insertion Sort Using a Class
+# 🧮 SORTING ALGORITHMS: Insertion Sort Using a Class
 
 This program demonstrates how to implement the **Insertion Sort algorithm** using a Python class. It allows the user to input a list of numbers, sorts them using the insertion sort technique, and displays the sorted list.
 
